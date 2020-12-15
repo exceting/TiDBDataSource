@@ -24,6 +24,8 @@ hs_err_pid*
 .gradle/
 build/
 out/
+gradlew
+gradlew.bat
 local.properties
 *.DS_Store
 *.pyc
