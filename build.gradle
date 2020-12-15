@@ -1,0 +1,10 @@
+apply plugin: 'java'
+
+dependencies {
+
+}
+
+jar {
+    baseName "activity-gateway"
+    version ""
+}
